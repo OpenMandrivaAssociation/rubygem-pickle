@@ -47,7 +47,7 @@ rm -f %{buildroot}%{ruby_gemdir}/gems/%{oname}-%{version}/.gitignore
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/Rakefile*
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/README.rdoc
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/Todo.txt
-%doc %{ruby_gemdir}/gems/%{oname}-%{version}/VERSION
+# %doc %{ruby_gemdir}/gems/%{oname}-%{version}/VERSION
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/%{oname}.gemspec
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
