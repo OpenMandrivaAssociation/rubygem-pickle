@@ -3,7 +3,7 @@
 Summary:	Easy model creation and reference in your cucumber features
 Name:		rubygem-%{rbname}
 Version:	0.4.11
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Ruby
 Url:		http://rubygems.org/downloads/%{rbname}
