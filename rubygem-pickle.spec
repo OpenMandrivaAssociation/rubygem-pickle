@@ -6,7 +6,7 @@ Version:	0.4.11
 Release:	2
 License:	MIT
 Group:		Development/Ruby
-Url:		http://rubygems.org/downloads/%{rbname}
+Url:		https://rubygems.org/downloads/%{rbname}
 Source0:	http://rubygems.org/downloads/%{rbname}-%{version}.gem
 BuildRequires:	rubygems
 BuildArch:	noarch
